@@ -1,0 +1,11 @@
+# SPDX-FileCopyrightText: 2026 J. Feldmaier
+# SPDX-License-Identifier: Apache-2.0
+
+.pio/
+build/
+.venv/
+__pycache__/
+.vscode/*
+!.vscode/extensions.json
+*.code-workspace
+WIRING.html

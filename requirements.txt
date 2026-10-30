@@ -1,0 +1,4 @@
+# SPDX-FileCopyrightText: 2026 J. Feldmaier
+# SPDX-License-Identifier: Apache-2.0
+
+fpdf2>=2.8
